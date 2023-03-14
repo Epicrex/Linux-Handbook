@@ -1,5 +1,2 @@
-# LinuxHandbook
-
-A guide to working with the OS of Liux Distro's.
-
-https://github.com/Epicrex/Linux-Handbook/wiki
+# Hi
+-> Head on over to the Wiki tab or click [here](https://github.com/Epicrex/Linux-Handbook/wiki)
